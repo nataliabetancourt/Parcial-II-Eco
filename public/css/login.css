@@ -1,0 +1,29 @@
+#title {
+    font-family: Outfit;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column; 
+}
+
+#login {
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+}
+
+.loginElements {
+    font-family: Outfit;
+    width: 30%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+#loginBtn {
+    background-color: rgb(162, 80, 255);
+    color: white;
+}
